@@ -5,21 +5,21 @@ A computer vision system able to detect kiwis in images
 
 ```plaintext
 SIV-KIWI-VISION/
-├── edge_detection_experiments/       # Experiments to perfect the edge detection and A channel masking
-│
 ├── YOLO_detection_experiments/       # Experiments with different YOLO models
+│
+├── edge_detection_experiments/       # Experiments to perfect the edge detection and A channel masking
 │
 ├── images/                           # The images used to test the project
 │
+├── kiwi-1.zip                        # Dataset used to fine-tune the model
+│
+├── kiwi_detector_4.pt                # YOLOv8 model fine-tuned on a kiwi detaset
+│
 ├── main.ipynb                        # Main notebook of the project 
 │
-├── kiwi_detector_4.pt                # YOLOv8 model fine-tuned on a kiwi_detaset
-│
-├── kiwi-1.zip                        # Dataset used to fine-tune the model
+├── requirements.txt                  # Libraries used in the project
+
 ```
-
-
-The Notebook relative to the project is main.ipynb
 
 
 Info:
