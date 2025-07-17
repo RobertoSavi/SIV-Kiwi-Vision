@@ -1,5 +1,14 @@
 # SIG-Kiwi-Vision
-A computer vision system able to detect and classify kiwis in images
+A computer vision system able to detect kiwis in images
+
+The Notebook relative to the project is main.ipynb
+
+
+
+
+
+
+
 
 Info:
 - Possibili feature: Dimensione, Forma, Colore, Texture, Numero

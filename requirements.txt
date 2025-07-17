@@ -1,7 +1,16 @@
-opencv-python
 numpy
+opencv-python
 matplotlib
+pandas
 scikit-image
 scikit-learn
 torch
 torchvision
+roboflow
+ultralytics
+ultralytics-thop
+tqdm
+requests
+python-dotenv
+filetype
+pyyaml

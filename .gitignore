@@ -1,6 +1,4 @@
-images
-edge_detection_experiments
-photo_2024-12-10_19-00-54 (2).jpg
 *.pt
 kiwi-1*
 .env
+runs*
