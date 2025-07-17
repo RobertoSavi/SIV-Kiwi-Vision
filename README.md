@@ -1,13 +1,25 @@
 # SIG-Kiwi-Vision
 A computer vision system able to detect kiwis in images
 
+## Project Structure
+
+```plaintext
+SIV-KIWI-VISION/
+├── edge_detection_experiments/       # Experiments to perfect the edge detection and A channel masking
+│
+├── YOLO_detection_experiments/       # Experiments with different YOLO models
+│
+├── images/                           # The images used to test the project
+│
+├── main.ipynb                        # Main notebook of the project 
+│
+├── kiwi_detector_4.pt                # YOLOv8 model fine-tuned on a kiwi_detaset
+│
+├── kiwi-1.zip                        # Dataset used to fine-tune the model
+```
+
+
 The Notebook relative to the project is main.ipynb
-
-
-
-
-
-
 
 
 Info:

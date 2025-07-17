@@ -1,4 +1,6 @@
 *.pt
 kiwi-1*
+!kiwi-1.zip
+!kiwi_detector_4.pt
 .env
 runs*
